@@ -1,0 +1,23 @@
+{
+  "name": "nodebb-plugin-emoji-twitch",
+  "version": "0.0.1",
+  "description": "Twitch Emoji for NodeBB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storayy/nodebb-plugin-emoji-twitch"
+  },
+  "keywords": [
+    "nodebb",
+    "emoji",
+    "twitch"
+  ],
+  "author": "Storayy",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/storayy/nodebb-plugin-emoji-twitch"
+  }
+}

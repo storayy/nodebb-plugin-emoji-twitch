@@ -1,0 +1,17 @@
+{
+    "id": "nodebb-plugin-emoji-twitch",
+    "name": "NodeBB Twitch Emoji",
+    "description": "Twitch Emoji for NodeBB",
+    "url": "https://github.com/storayy/nodebb-plugin-emoji-twitch",
+    "library": "./index.js",
+    "staticDirs": {
+        "icons": "assets"
+    },
+    "less": [
+    	"assets/style.less"
+    ],
+    "hooks": [
+        { "hook": "filter:post.parse", "method": "addEmoji" }
+    ],
+    "compatibility": "~0.4.0"
+}
