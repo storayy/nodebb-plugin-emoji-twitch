@@ -1,18 +1,18 @@
 var	nconf = module.parent.require('nconf'),
 	Emoji = {
 		mapping: {
-			"Kappa": "Kappa",
-			"BibleThump": "BibleThump",
-			"DansGame": "DansGame",
-			"FrankerZ": "FrankerZ",
-			"MrDestructoid": "MrDestructoid",
-			"ShibeZ": "ShibeZ",
-			"BloodTrail": "BloodTrail",
-			"FailFish": "FailFish",
-			"KAPOW": "KAPOW",
-			"Keepo": "Keepo",
-			"PJSalt": "PJSalt",
-			"SMOrc": "SMOrc",
+			"(Kappa)": "Kappa",
+			"(BibleThump)": "BibleThump",
+			"(DansGame)": "DansGame",
+			"(FrankerZ)": "FrankerZ",
+			"(MrDestructoid)": "MrDestructoid",
+			"(ShibeZ)": "ShibeZ",
+			"(BloodTrail)": "BloodTrail",
+			"(FailFish)": "FailFish",
+			"(KAPOW)": "KAPOW",
+			"(Keepo)": "Keepo",
+			"(PJSalt)": "PJSalt",
+			"(SMOrc)": "SMOrc",
 		}
 	};
 
