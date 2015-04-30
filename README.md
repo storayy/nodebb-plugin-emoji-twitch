@@ -2,6 +2,8 @@
 
 This NodeBB plugin allows users to use Twitch Emoticons.
 
+## Note - This is no longer updated
+
 # Example:
 * `Kappa` = ![Kappa](http://i.imgur.com/ZFlCigT.png)
 
