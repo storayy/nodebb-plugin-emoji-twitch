@@ -1,5 +1,5 @@
 # Twitch Emoji for NodeBB
-###### Note - This is no longer updated, and is broken.
+###### Note - This is no longer updated.
 
 This NodeBB plugin allows users to use Twitch Emoticons.
 
